@@ -1,0 +1,15 @@
+C:\Users\yarba\source\repos\uchPractical3\uchPractical3\bin\Debug\net7.0\uchPractical3.exe
+C:\Users\yarba\source\repos\uchPractical3\uchPractical3\bin\Debug\net7.0\uchPractical3.deps.json
+C:\Users\yarba\source\repos\uchPractical3\uchPractical3\bin\Debug\net7.0\uchPractical3.runtimeconfig.json
+C:\Users\yarba\source\repos\uchPractical3\uchPractical3\bin\Debug\net7.0\uchPractical3.dll
+C:\Users\yarba\source\repos\uchPractical3\uchPractical3\bin\Debug\net7.0\uchPractical3.pdb
+C:\Users\yarba\source\repos\uchPractical3\uchPractical3\obj\Debug\net7.0\uchPractical3.csproj.AssemblyReference.cache
+C:\Users\yarba\source\repos\uchPractical3\uchPractical3\obj\Debug\net7.0\uchPractical3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yarba\source\repos\uchPractical3\uchPractical3\obj\Debug\net7.0\uchPractical3.AssemblyInfoInputs.cache
+C:\Users\yarba\source\repos\uchPractical3\uchPractical3\obj\Debug\net7.0\uchPractical3.AssemblyInfo.cs
+C:\Users\yarba\source\repos\uchPractical3\uchPractical3\obj\Debug\net7.0\uchPractical3.csproj.CoreCompileInputs.cache
+C:\Users\yarba\source\repos\uchPractical3\uchPractical3\obj\Debug\net7.0\uchPractical3.dll
+C:\Users\yarba\source\repos\uchPractical3\uchPractical3\obj\Debug\net7.0\refint\uchPractical3.dll
+C:\Users\yarba\source\repos\uchPractical3\uchPractical3\obj\Debug\net7.0\uchPractical3.pdb
+C:\Users\yarba\source\repos\uchPractical3\uchPractical3\obj\Debug\net7.0\uchPractical3.genruntimeconfig.cache
+C:\Users\yarba\source\repos\uchPractical3\uchPractical3\obj\Debug\net7.0\ref\uchPractical3.dll

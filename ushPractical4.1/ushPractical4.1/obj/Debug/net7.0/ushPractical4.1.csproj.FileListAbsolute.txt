@@ -1,0 +1,15 @@
+C:\Users\yarba\source\repos\ushPractical4.1\ushPractical4.1\bin\Debug\net7.0\ushPractical4.1.exe
+C:\Users\yarba\source\repos\ushPractical4.1\ushPractical4.1\bin\Debug\net7.0\ushPractical4.1.deps.json
+C:\Users\yarba\source\repos\ushPractical4.1\ushPractical4.1\bin\Debug\net7.0\ushPractical4.1.runtimeconfig.json
+C:\Users\yarba\source\repos\ushPractical4.1\ushPractical4.1\bin\Debug\net7.0\ushPractical4.1.dll
+C:\Users\yarba\source\repos\ushPractical4.1\ushPractical4.1\bin\Debug\net7.0\ushPractical4.1.pdb
+C:\Users\yarba\source\repos\ushPractical4.1\ushPractical4.1\obj\Debug\net7.0\ushPractical4.1.csproj.AssemblyReference.cache
+C:\Users\yarba\source\repos\ushPractical4.1\ushPractical4.1\obj\Debug\net7.0\ushPractical4.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yarba\source\repos\ushPractical4.1\ushPractical4.1\obj\Debug\net7.0\ushPractical4.1.AssemblyInfoInputs.cache
+C:\Users\yarba\source\repos\ushPractical4.1\ushPractical4.1\obj\Debug\net7.0\ushPractical4.1.AssemblyInfo.cs
+C:\Users\yarba\source\repos\ushPractical4.1\ushPractical4.1\obj\Debug\net7.0\ushPractical4.1.csproj.CoreCompileInputs.cache
+C:\Users\yarba\source\repos\ushPractical4.1\ushPractical4.1\obj\Debug\net7.0\ushPractical4.1.dll
+C:\Users\yarba\source\repos\ushPractical4.1\ushPractical4.1\obj\Debug\net7.0\refint\ushPractical4.1.dll
+C:\Users\yarba\source\repos\ushPractical4.1\ushPractical4.1\obj\Debug\net7.0\ushPractical4.1.pdb
+C:\Users\yarba\source\repos\ushPractical4.1\ushPractical4.1\obj\Debug\net7.0\ushPractical4.1.genruntimeconfig.cache
+C:\Users\yarba\source\repos\ushPractical4.1\ushPractical4.1\obj\Debug\net7.0\ref\ushPractical4.1.dll
